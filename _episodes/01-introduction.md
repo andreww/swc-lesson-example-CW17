@@ -1,13 +1,13 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 2
 questions:
-- "Key question"
+- "Can you count"
 objectives:
-- "First objective."
+- "Learn to count."
 keypoints:
-- "First key point."
+- "By counting."
 ---
 
 
